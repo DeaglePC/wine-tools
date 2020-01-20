@@ -3,7 +3,7 @@
 
 # 安装
 ```sh
-sudo apt install wmctrl xdotool
+sudo apt install wmctrl xdotool && git clone https://github.com/DeaglePC/wine-tools.git && cd wine-tools
 ```
 
 # 使用
