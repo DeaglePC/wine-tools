@@ -16,7 +16,7 @@ sudo apt install wmctrl xdotool && git clone https://github.com/DeaglePC/wine-to
 ### 用快捷键呼出企业微信 or  微信
  * 微信：
 1. 把微信的快捷键设置为： <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>x</kbd>  （也可以自己改成其他的，但要同步改show-wine-wx.sh）  
-2. 将命令 `show-wine-wx.sh wechat` 绑定到ubuntu相同的快捷键  
+2. 将命令 `/your path/show-wine-wx.sh wechat` 绑定到ubuntu相同的快捷键(注意此处文件路径应该为绝对路径)  
 3. 将微信的快捷键设置为相同的快捷键  
 
 
